@@ -5,13 +5,13 @@
 
 - 😄 Pronouns: He / Him
 
-- 🔭 I’m currently working on [version-checker](github.com/jetstack/version-checker)
+- 🔭 I’m currently working on [version-checker](://github.com/jetstack/version-checker)
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on [argoproj](github.com/argoproj)
+- 👯 I’m looking to collaborate on [argoproj](://github.com/argoproj)
 
-- 🤝 I’m looking for help with [version-checker](github.com/jetstack/version-checker)
+- 🤝 I’m looking for help with [version-checker](://github.com/jetstack/version-checker)
 
 - 🏅 Favourite sport to watch: 🏁 Formula 1
 
@@ -21,7 +21,7 @@
 
 - ⚡ Other facts about me: 🧠 Dyslexic thinker, Currently Waiting for ADHD Accessment
 
-- 📄 Know about my experiences [https://david.collom.co.uk/cv.pdf](https://david.collom.co.uk/cv.pdf)
+- 📄 [Learn about my experiences](https://david.collom.co.uk/cv.pdf)
 
 ### Connect with me:
 <p align="left">
