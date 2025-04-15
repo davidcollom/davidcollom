@@ -5,13 +5,13 @@
 
 - 😄 Pronouns: He / Him
 
-- 🔭 I’m currently working on [version-checker](://github.com/jetstack/version-checker)
+- 🔭 I’m currently working on [version-checker](https://github.com/jetstack/version-checker)
 
 - 🌱 I’m currently learning **GoLang**
 
-- 👯 I’m looking to collaborate on [argoproj](://github.com/argoproj)
+- 👯 I’m looking to collaborate on [argoproj](https://github.com/argoproj)
 
-- 🤝 I’m looking for help with [version-checker](://github.com/jetstack/version-checker)
+- 🤝 I’m looking for help with [version-checker](https://github.com/jetstack/version-checker)
 
 - 🏅 Favourite sport to watch: 🏁 Formula 1
 
