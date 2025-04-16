@@ -1,5 +1,5 @@
 # Hi 👋, I'm David / Dave
-### A passionate Platform/Software engineer, with a focus on Observabilty and Automation
+### A passionate Platform/Software engineer, with a focus on Observability and Automation
 
 <p align="left">  </p>
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Kubernetes, Helm, Terraform, Prometheus, DevOps, Platform Engineering, Scaleable Kubernetes, FinOps**
 
-- ⚡ Other facts about me: 🧠 Dyslexic thinker, Currently Waiting for ADHD Accessment
+- ⚡ Other facts about me: 🧠 Dyslexic thinker, Currently Waiting for ADHD Assessment
 
 - 📄 [Learn about my experiences](https://david.collom.co.uk/cv.pdf)
 
@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/davidcollom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidcollom" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"
