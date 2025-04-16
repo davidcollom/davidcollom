@@ -1,5 +1,5 @@
 # Hi 👋, I'm David / Dave
-### A passionate Platform/Software engineer</h3>
+### A passionate Platform/Software engineer, with a focus on Observabilty and Automation
 
 <p align="left">  </p>
 
