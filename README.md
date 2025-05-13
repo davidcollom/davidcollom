@@ -15,7 +15,7 @@
 
 - 🏅 Favourite sport to watch: 🏁 Formula 1
 
-- Favourite pass time: I'm an avid road cyclist, I also collect Lego (and display it very proudly as my conference call background)
+- Favourite pastime: I'm an avid road cyclist, I also collect Lego (and display it very proudly as my conference call background)
 
 - 💬 Ask me about **Kubernetes, Helm, Terraform, Prometheus, DevOps, Platform Engineering, Scaleable Kubernetes, FinOps**
 
