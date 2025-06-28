@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [version-checker](https://github.com/jetstack/version-checker)
 
-- 🌱 I’m currently learning **GoLang**
-
 - 👯 I’m looking to collaborate on [argoproj](https://github.com/argoproj) [version-checker](https://github.com/jetstack/version-checker)
 
 - 🤝 I’m looking for help with [version-checker](https://github.com/jetstack/version-checker)
